@@ -10,5 +10,5 @@ collection
 end
   
   
-my_collect() do |name|
+my_collect(array) do |name|
 end
